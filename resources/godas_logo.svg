@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#168fd0"/><stop offset="1" stop-color="#0b3d72"/>
+  </linearGradient>
+  <linearGradient id="sea" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#37b8e8"/><stop offset="1" stop-color="#006ba8"/>
+  </linearGradient>
+</defs>
+<circle cx="128" cy="128" r="118" fill="url(#bg)" stroke="#e9f6ff" stroke-width="8"/>
+<!-- globe -->
+<circle cx="151" cy="92" r="48" fill="none" stroke="#dff3ff" stroke-width="6"/>
+<path d="M103 92h96M151 44c-18 13-18 84 0 96M151 44c18 13 18 84 0 96M111 68c21 8 59 8 80 0M111 116c21-8 59-8 80 0" fill="none" stroke="#dff3ff" stroke-width="4" opacity=".95"/>
+<!-- white ocean wave -->
+<path d="M27 150c29-22 48-19 69-6 17 10 34 18 52 10 12-5 23-14 35-24-10 22-24 38-43 45-25 9-43-7-60-13-17-7-32-6-53 8z" fill="#f8fdff" opacity=".98"/>
+<!-- orange accent -->
+<path d="M34 139c18-18 34-29 54-33 17-3 31 1 43 9-20-3-36 2-50 13-10 8-18 17-24 27z" fill="#ff9f1c"/>
+<!-- lower wave -->
+<path d="M31 176c31-17 55-14 79-2 23 11 42 11 67-2-17 18-37 28-58 25-20-3-38-17-58-18-9 0-19 2-30 7z" fill="#e7f8ff" opacity=".88"/>
+</svg>
